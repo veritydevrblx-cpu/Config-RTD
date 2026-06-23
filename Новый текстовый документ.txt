@@ -5,6 +5,10 @@ Config.Towers = {
 		["Image"] = "IDK";
 		["Price"] = 100;
 	};
+	["Noob 2"] = {
+		["Image"] = "IDK";
+		["Price"] = 67;
+	};
 }
 
 
