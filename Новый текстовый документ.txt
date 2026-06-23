@@ -1,0 +1,11 @@
+local Config = {}
+
+Config.Towers = {
+	["Noob"] = {
+		["Image"] = "IDK";
+		["Price"] = 100;
+	};
+}
+
+
+return Config
