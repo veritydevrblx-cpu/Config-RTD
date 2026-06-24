@@ -43,5 +43,11 @@ Config.Towers = {
 	};
 }
 
+Config.Raritys = {
+	["Noob"] = {
+		["LayoutOrder"] = 0;
+		["Sell"] = 1;
+	};
+}
 
 return Config
