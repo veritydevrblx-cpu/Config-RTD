@@ -8,12 +8,12 @@ Config.Towers = {
 				["Stats"] = {
 					["Damage"] = 100;
 					["Range"] = 15;
-					["Range"] = 1;
+					["Cooldown"] = 1;
 				};
 				["MaxStats"] = {
-					["MaxDamage"] = 200;
-					["MaxRange"] = 20;
-					["MaxRange"] = 0.75;
+					["Damage"] = 200;
+					["Range"] = 20;
+					["Cooldown"] = 0.75;
 				};
 			};
 		};
