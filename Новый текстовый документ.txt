@@ -2,7 +2,6 @@ local Config = {}
 
 Config.Towers = {
 	["Noob"] = {
-		["Rarity"] = "Noob";
 		["Stats"] = {
 			["Config1"] = {
 				["AttackType"] = {};
@@ -18,6 +17,7 @@ Config.Towers = {
 				};
 			};
 		};
+		["Rarity"] = "Noob";
 		["Image"] = "rbxassetid://38231545";
 		["Price"] = 67;
 	};
