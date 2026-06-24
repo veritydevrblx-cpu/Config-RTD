@@ -2,6 +2,7 @@ local Config = {}
 
 Config.Towers = {
 	["Noob"] = {
+		["Rarity"] = "Noob";
 		["Stats"] = {
 			["Config1"] = {
 				["AttackType"] = {};
