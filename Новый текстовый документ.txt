@@ -21,6 +21,26 @@ Config.Towers = {
 		["Image"] = "rbxassetid://38231545";
 		["Price"] = 67;
 	};
+	["John"] = {
+		["Stats"] = {
+			["Config1"] = {
+				["AttackType"] = {};
+				["Stats"] = {
+					["Damage"] = 100;
+					["Range"] = 15;
+					["Cooldown"] = 1;
+				};
+				["MaxStats"] = {
+					["Damage"] = 200;
+					["Range"] = 20;
+					["Cooldown"] = 0.75;
+				};
+			};
+		};
+		["Rarity"] = "Noob";
+		["Image"] = "rbxassetid://38231545";
+		["Price"] = 100;
+	};
 }
 
 
