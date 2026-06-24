@@ -2,11 +2,22 @@ local Config = {}
 
 Config.Towers = {
 	["Noob"] = {
-		["Image"] = "IDK";
-		["Price"] = 100;
-	};
-	["Noob 2"] = {
-		["Image"] = "IDK";
+		["Stats"] = {
+			["Config1"] = {
+				["AttackType"] = {};
+				["Stats"] = {
+					["Damage"] = 100;
+					["Range"] = 15;
+					["Range"] = 1;
+				};
+				["MaxStats"] = {
+					["MaxDamage"] = 200;
+					["MaxRange"] = 20;
+					["MaxRange"] = 0.75;
+				};
+			};
+		};
+		["Image"] = "rbxassetid://38231545";
 		["Price"] = 67;
 	};
 }
